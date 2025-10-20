@@ -57,4 +57,6 @@ char originalInput[] = {'H','E','L','L','O','W','O','R','L','D'};
 
 Using for example the Arduino IDE
 
-# Have Fun
+---
+
+# Have Fun!
